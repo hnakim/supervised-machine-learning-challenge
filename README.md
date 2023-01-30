@@ -1,1 +1,2 @@
 # supervised-machine-learning-challenge
+Using loan data, machine learning models were created to classify the risk level of given loans. Specifically, the Logistic Regression model and Random Forest Classifier will be compared.
